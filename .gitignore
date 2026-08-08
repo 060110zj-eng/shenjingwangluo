@@ -1,0 +1,4 @@
+.idea/
+image_cache/
+__pycache__/
+*.pyc
